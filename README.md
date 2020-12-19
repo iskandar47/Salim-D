@@ -9,7 +9,8 @@ I'm currently learning Javascript FullStack development 🚀
 * React.js    
 * Express    
 * MongoDB     
-* Git     
+* Git 
+* Material UI / Bootstrap
 * Markup languages Html / Css
 
 ## 👁 Future goals :
