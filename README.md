@@ -15,7 +15,8 @@ I'm currently working as a freelancer and learning Javascript FullStack developm
 
 ## 👁 Future goals :
 
-I'm waiting for the chance to discover the C# and Asp.net World in the future 🕵
+Going deep into D3.js 🚀
+Waiting for the chance to discover the C# and Asp.net World in the future 🕵
 Also back to university next year for a CS degree 📚
 
 ## 🌐 Find me :
