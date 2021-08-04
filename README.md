@@ -1,6 +1,6 @@
 # Hi 👋, I'm Salim, a Front-end web Developer
 
-a 27 years old self-taught developer 💻   from Algeria 🇩🇿 
+a 27 years software developer 💻   from Algeria 🇩🇿 
 
 I'm currently working as a freelancer and learning Javascript FullStack development 🚀 
 
