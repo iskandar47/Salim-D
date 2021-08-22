@@ -9,6 +9,7 @@ I'm currently working as a freelancer and learning Javascript FullStack developm
 * React.js    
 * Express    
 * MongoDB 
+* SQLite
 * Material UI / Bootstrap
 * Html / Css
 
@@ -17,11 +18,11 @@ I'm currently working as a freelancer and learning Javascript FullStack developm
 * vs Code
 * visual studio 2019
 * Trello
+* Slack
 
 ## 👁 Future goals :
 
-Going deep into D3.js 🚀
-Waiting for the chance to learn C# and Asp.net 🕵
+Exploring C# and Asp.net 🕵
 Going back to university next year for a CS degree 📚
 
 ## 🌐 Find me :
