@@ -1,4 +1,4 @@
-# Hi 👋, I'm Salim, a Front-end web Developer
+# Hi 👋, I'm Salim .
 
 a 27 years software developer 💻   from Algeria 🇩🇿 
 
