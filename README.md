@@ -9,7 +9,7 @@ I'm currently working as a freelancer and learning Javascript FullStack developm
 * React.js    
 * Express    
 * MongoDB 
-* SQLite
+* SQL
 * Material UI / Bootstrap
 * Html / Css
 
