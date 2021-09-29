@@ -1,6 +1,8 @@
 # Hi 👋, I'm Salim .
 
-a 27 years software developer 💻   from Algeria 🇩🇿 
+a 27 years software developer from Algeria 🇩🇿 
+
+Math and IT student .
 
 I'm currently working as a freelancer and learning Javascript FullStack development 🚀 
 
