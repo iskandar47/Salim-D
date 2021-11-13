@@ -1,31 +1,35 @@
 # Hi 👋, I'm Salim .
 
-a 27 years software developer from Algeria 🇩🇿 
+a 28 years software developer from Algeria 🇩🇿 
 
-Math and IT student .
+Math and CS student .
 
-I'm currently working as a freelancer and learning Javascript FullStack development 🚀 
+I'm currently working as a freelancer 🚀 
 
 ## 💼 Skills : 
 * Javascript     
-* React.js    
+* React.js   
+* AWS Amplify 
 * Express    
 * MongoDB 
-* SQL
 * Material UI / Bootstrap
 * Html / Css
 
+## 📚 Currently learning 
+* Typescript
+* C++
+
 ## 🧰 Tools :
-* Git
+* Git / Github / Gitlab
 * vs Code
 * visual studio 2019
 * Trello
+* ClickUp
 * Slack
 
 ## 👁 Future goals :
-
-Exploring C# and Asp.net 🕵
-Going back to university next year for a CS degree 📚
+* Get My CS degree 
+* Exploring C# and Asp.net 🕵
 
 ## 🌐 Find me :
 
