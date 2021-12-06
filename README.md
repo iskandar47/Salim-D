@@ -1,6 +1,6 @@
 # Hi 👋, I'm Salim .
 
-a 28 years software developer from Algeria 🇩🇿 
+A passionate software developer from Algeria 🇩🇿 
 
 Math and CS student .
 
