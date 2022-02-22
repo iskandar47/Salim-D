@@ -16,7 +16,7 @@ I'm currently working as a freelancer 🚀
 * Html / Css
 
 ## 📚 Currently learning 
-* Typescript
+* Blockchain
 * C++
 
 ## 🧰 Tools :
