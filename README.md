@@ -38,7 +38,7 @@ I'm currently working as a freelancer 🚀
 <a href="https://twitter.com/DriaiSalim" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a>
 
 ## 📈 Github Stats :
-
+<a href="https://github.com/iskandar47">
 <img align="center" alt="Salim's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iskandar47&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
 <a href="https://github.com/iskandar47">
