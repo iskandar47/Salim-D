@@ -2,35 +2,6 @@
 
 A passionate software developer from Algeria 🇩🇿 
 
-Math and CS student .
-
-I'm currently working as a freelancer 🚀 
-
-## 💼 Skills : 
-* Javascript     
-* React.js   
-* AWS Amplify 
-* Express    
-* MongoDB 
-* Material UI / Bootstrap
-* Html / Css
-
-## 📚 Currently learning 
-* Blockchain
-* C++
-
-## 🧰 Tools :
-* Git / Github / Gitlab
-* vs Code
-* visual studio 2019
-* Trello
-* ClickUp
-* Slack
-
-## 👁 Future goals :
-* Get My CS degree 
-* Exploring C# and Asp.net 🕵
-
 ## 🌐 Find me :
 
 <a href="https://www.linkedin.com/in/salim-driai-b850091b3/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
