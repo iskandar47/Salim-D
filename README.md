@@ -1,6 +1,10 @@
 # Hi 👋, I'm Salim .
 
-A passionate software developer from Algeria 🇩🇿 
+A passionate software developer .
+
+I do React . 
+
+I'm a Blockchain enthusiast .
 
 ## 🌐 Find me :
 
