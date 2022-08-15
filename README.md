@@ -19,3 +19,5 @@ I'm a Blockchain enthusiast .
 <a href="https://github.com/iskandar47">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iskandar47&layout=compact&theme=radical" />
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
