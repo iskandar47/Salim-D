@@ -1,5 +1,4 @@
-# Hello I'M Salim
-#### A full stack developer
+![Github-cover](https://user-images.githubusercontent.com/67127725/197285070-1b2fca96-63db-4660-8a08-6c8735e664fd.png)
 
 ## Find me  
 <a href="https://twitter.com/DriaiSalim" target="_blank">
@@ -54,11 +53,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iskandar47&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=salimdriai&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskandar47&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimdriai&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
 
 
 </td></tr></table>  
